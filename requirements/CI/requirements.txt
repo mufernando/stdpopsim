@@ -11,7 +11,7 @@ sphinxcontrib-programoutput==0.16
 msprime==0.7.4
 attrs==20.2.0
 appdirs==1.4.4
-humanize==3.1.0
+humanize==3.2.0
 pyslim==0.403
 pandas==1.1.4
 numpy==1.19.4
